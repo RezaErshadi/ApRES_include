@@ -1,0 +1,14 @@
+Name: EPICA;
+SiteNumber: 11;
+Date: 2014-01-08;
+Long: 123.35;
+Lat: -75.1;
+PSC_Long (polar stereographic coordinates): 1359.695361;
+PSC_Lat (polar stereographic coordinates): -894.8524301;
+MD (MagneticDeclination angle between magnetic north and true north) [deg]: 142 W;
+TR2MN (angle between TR axis and magnetic north - counter clockwise) [deg]: NaN;
+TR2TN (angle between TR axis and true north - counter clockwise) [deg]: 163.6;
+Elevation (REMA) [masl]: 3232.76416;
+BedDpeth_BM (BedMachine) [masl]: -17.79492;
+BedDepth_RP (Radar power) [masl]: -8.054492399;
+end
